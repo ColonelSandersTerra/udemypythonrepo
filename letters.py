@@ -14,4 +14,4 @@ letters = ""
 print(letters[-1:]) #no error even if empty string
 print (letters[:1]) #no error even if empty string
 
-#print letters
+#print(letters[0]) error if empty string
